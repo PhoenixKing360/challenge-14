@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS main_db;
+CREATE DATABASE main_db_db;
